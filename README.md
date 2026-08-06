@@ -64,19 +64,6 @@ The project included:
 
 ---
 
-## Repository Structure
-
-```
-polish-names-analysis/
-│
-├── analysis.R
-├── data/
-├── figures/
-├── infographic.pdf
-└── README.md
-```
-
----
 
 ## Project Status
 
